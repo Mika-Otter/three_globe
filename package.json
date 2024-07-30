@@ -10,5 +10,10 @@
   },
   "devDependencies": {
     "vite": "^5.3.4"
+  },
+  "dependencies": {
+    "lil-gui": "^0.19.2",
+    "three": "^0.167.0",
+    "vite-plugin-restart": "^0.4.1"
   }
 }
